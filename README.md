@@ -3,6 +3,12 @@
 ## Description
 This JavaScript code generates random passwords based on user-selected criteria. Users can customize the password length and choose to include special characters, numeric characters, lowercase characters, and/or uppercase characters.
 
+# Deployed Page:
+- (https://aysegulozen.github.io/Password-Generator/)
+
+## GitHub Repo
+- (https://github.com/Aysegulozen/Password-Generator)
+
 ## Installation
 No specific installation is required. Open the HTML file in your preferred browser.
 
